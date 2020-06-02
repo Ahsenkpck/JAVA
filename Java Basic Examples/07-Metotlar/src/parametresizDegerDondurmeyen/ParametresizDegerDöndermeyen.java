@@ -4,7 +4,7 @@ package parametresizDegerDondurmeyen;
  *
  * @author akipc
  */
-public class ParametresizDegerDöndermeyen {
+public class ParametresizDegerDondurmeyen {
 
     public static void main(String[] args) {
 
