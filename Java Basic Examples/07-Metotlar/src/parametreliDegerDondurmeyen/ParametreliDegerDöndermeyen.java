@@ -4,7 +4,7 @@ package parametreliDegerDondurmeyen;
  *
  * @author akipc
  */
-public class ParametreliDegerDöndermeyen {
+public class ParametreliDegerDondurmeyen {
 
     public static void topla(int a, int b, int c, double d) {
         int toplam = a + b + c;
